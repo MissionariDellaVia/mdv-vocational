@@ -1,0 +1,95 @@
+.homeCard {
+    margin-top: 77px;
+    min-height: 92vh;
+    background: url('../img/background-overlay0.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.card a {
+    color: #422600;
+}
+.card a:hover {
+    color: #a89780;
+}
+
+.card-text {
+    font-family: 'Neucha', cursive;
+}
+
+.card-text.large{
+    font-size: 1.7rem;
+}
+
+.card-text.small {
+    font-size: smaller;
+}
+.card {
+    max-width: 20vw;
+    height: 30vh;
+    margin: auto;
+}
+
+.card-body{
+    height: 8vh;
+}
+
+
+
+.fa-undo {
+    cursor: pointer;
+    color:#422600;
+}
+
+.fa-undo:hover {
+    color:#a89780;
+}
+
+@media (max-width: 375px) {
+    .gridded { padding-left:15%;padding-top:3%;}
+    .card {max-width: 70vw; max-height: 70vh;}
+  }
+@media (max-width: 992px) {
+    .row.padded { padding:5%;}
+  }
+
+@media (min-width: 360px) { 
+.card-text.small {font-size: 0.8rem;}
+.card-text.large{ font-size: 1.4rem;}
+.card-img-top {height:35vh;}
+.card {max-width: 80vw; height:45vh;}
+}
+
+@media (min-width: 375px) and (max-width: 767px) { 
+.card-text.small {font-size: 0.8rem;}
+.card-text.large{ font-size: 1.4rem;}
+.card-img-top {height:30vh;}
+.card {max-width: 85vw; height:40vh;}
+}
+@media (min-width: 768px) {
+.card-text.small {font-size: 0.6rem;}
+.card-text.large{ font-size: 1.1rem;}
+.card-img-top {max-height:25vh;}
+.card {max-width: 60vw; max-height:30vh;}
+}
+@media (min-width: 992px) { 
+.card-text.small {font-size: 0.6rem;}
+.card-text.large{ font-size: 1.1rem;}
+.card-img-top {max-height:20vh;}
+.card {max-width: 60vw; max-height: 30vh;}
+}
+@media (min-width: 1200px) { 
+.card-text.small {font-size: 0.6rem;}
+.card-text.large{ font-size: 1rem;}
+.card-img-top {min-height:15vh;}
+.card {max-width: 17vw; max-height: 30vh;}
+}
+
+@media (min-width: 1920px) { 
+.card-text.small {font-size: 1.2rem;}
+.card-text.large{ font-size: 1.7rem;}
+.card-img-top {min-height:23vh;}
+}

@@ -1,0 +1,1 @@
+Un matrimonio non si improvvisa e non si può fondare suolo sentimento, sui facili entusiasmi o mossi dalla paura di restare soli. Il matrimonio è una vocazione, una chiamata di Dio; quindi per arrivare alla certezza interiore che quella sia la persona giusta è importante fare un cammino di discernimento.

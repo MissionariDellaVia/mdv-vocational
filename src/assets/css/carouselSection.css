@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+h1.carousel-font, h2.carousel-font{
+  font-family: 'Neucha', cursive;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.carousel-item.one {
+    background: url('../img/background-overlay0.jpg');
+    background-size: cover;
+
+}
+
+.carousel-caption {
+    transform: translateY(-50%);
+    bottom: 0;
+    top: 50%;
+  }
+
+.carousel-citation{
+  font-family: 'Caveat', cursive;
+  font-size: xx-large;
+  width: 40%;
+  margin: auto;
+} 
+
+  @media (min-width: 360px) { 
+    .carousel-caption {top: 45%;}
+    .carousel-caption h1 { font-size: 3em;}
+    .carousel-citation{width: auto; font-size: x-large;} 
+  }
+
+  @media (min-width: 375px) { 
+    .carousel-caption {top: 45%;}
+    .carousel-caption h1 { font-size: 3em;}
+    .carousel-citation{width: auto; font-size: x-large;} 
+  }
+  @media (min-width: 768px) {
+    .carousel-caption {top: 50%;}
+    .carousel-caption h1 { font-size: 3 em;}
+    .carousel-citation{width: auto; font-size: xx-large;} 
+  }
+  @media (min-width: 992px) { 
+    .carousel-caption {top: 45%;}
+    .carousel-caption h1 { font-size: 3.8em;}
+    .carousel-citation{width: 60%; font-size: xx-large;} 
+  }
+  @media (min-width: 1200px) { 
+    .carousel-caption {top: 45%; }
+    .carousel-caption h1 { font-size: 5.0em;}
+    .carousel-citation{width: 40%; font-size: xx-large;} 
+  }
+
+  @media (min-width: 1920px) { 
+    .carousel-caption {top: 48%; }
+    .carousel-caption h1 { font-size: 6em;}
+    .carousel-citation{width: 40%; font-size: xx-large;} 
+  }

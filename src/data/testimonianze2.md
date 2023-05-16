@@ -1,0 +1,10 @@
+![<](http://vocazione.altervista.org/hosted-images/t2.jpg)
+
+> «Nessuno ha un amore più grande di questo: dare la vita per i propri amici» (Gv 15,13).
+
+Queste parole di Gesù sono state per me particolarmente importanti in questi anni del mio cammino con il Signore. Racchiudono ciò che ho trovato, un Amore Grande: un amore che ama da sempre, un amore che si dona senza chiedere nulla in cambio, un amore che mette al centro gli altri, un amore fatto di sacrificio, un amore che accetta di soffrire, un amore che è sempre lì a tenderti la mano, un amore che perdona, un amore che ti dona la vita... il VERO AMORE quello che tutti desideriamo.
+
+Io l’ho trovato, anzi si è fatto trovare, questo grande TESORO e per averlo ho lasciato tutto donandogli tutta me stessa... ho detto “SI” all’Amore! Amore visibile in tutta la vita di Gesù. Papa Francesco ha detto: «Il Signore chiede tutto e quello che offre è la vera vita, la felicità per la quale siamo stati creati! Egli ci vuole santi e non si aspetta che ci accontentiamo di un’esistenza mediocre, annacquata, inconsistente». Egli mi ha incoraggiato a non avere paura, ad aprirgli il mio cuore, a non accontentarmi di vivere una vita piatta ma a dirgli di SÌ perché Lui facesse della mia vita un CAPOLAVORO.
+
+Vorrei ringraziare il Signore del dono grande che mi ha fatto e in modo particolare la mia comunità, soprattutto Suor Chiara che in questi anni mi ha custodita e accompagnata con amore e pazienza, grazie anche al suo prezioso esempio di semplicità, di amore e fedeltà a Gesù, indicandomi sempre l’essenziale e aiutandomi a formare “occhi nuovi per vedere il cielo in più...”. Vorrei quindi chiedervi di pregare per me, perché possa crescere sempre più nell’ Amore e perché possa essere «luce del mondo» come il Signore vuole in modo che chi vede me renda gloria al «Padre che è nei cieli»! (cfr Mt 5,14-16), e per la comunità tutta perché possiamo essere sempre più testimoni autentici e missionari impegnati a portare a tutti la Parola che salva!
+

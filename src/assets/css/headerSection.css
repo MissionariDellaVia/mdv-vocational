@@ -1,0 +1,88 @@
+
+
+.masthead {
+    font-family: 'Neucha', cursive;
+    height: 60vh;
+    min-height: 40hv;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 3%;
+    font-size: xx-large;
+    color: whitesmoke;
+    box-shadow: 0 6px 4px -2px #422600;
+  }
+
+.lead.headerSection {
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
+    width: 80%;
+    margin: auto;
+}
+
+.masthead.bg1{
+  background-image: url('../img/1.jpg');
+}
+
+.masthead.bg2{
+  background-image: url('../img/2.jpg');
+}
+
+.masthead.bg3{
+  background-image: url('../img/3.jpg');
+}
+
+.masthead.bg4{
+  background-image: url('../img/6.jpg');
+}
+
+.masthead.bg5{
+  background-image: url('../img/5.jpg');
+}
+
+.masthead.bg6{
+  background-image: url('../img/4.jpg');
+}
+
+.masthead.bg7{
+  background-image: url('../img/7.jpg');
+}
+
+.masthead.bg8{
+  background-image: url('../img/8.jpg');
+}
+
+.masthead.bg9{
+  background-image: url('../img/9.jpg');
+}
+
+.masthead.bg10{
+  background-image: url('../img/10.jpg');
+}
+
+.masthead.bg11{
+  background-image: url('../img/11.jpg');
+}
+
+.masthead.bg12{
+  background-image: url('../img/12.jpg');
+}
+
+.masthead.bg13{
+  background-image: url('../img/13.jpg');
+}
+
+
+@media (max-width:380px) {
+  .masthead {
+    margin-top: 20%;
+    height: 100vh;
+  }
+  .lead.headerSection {
+    font-family: 'Caveat', cursive;
+    font-size: large;
+    width: 90%;
+    margin: auto;
+  }
+
+}

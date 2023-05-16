@@ -1,0 +1,11 @@
+![>](http://vocazione.altervista.org/hosted-images/m3.jpg)
+
+Il tempo del fidanzamento è un tempo prezioso di discernimento e di crescita nell’amore. Oltre al piacersi e allo stare bene insieme, è importante imparare a conoscersi, ad amarsi nella verità, a progettare e ad affrontare le cose insieme... La vita di coppia non si improvvisa, si costruisce giorno dopo giorno e sarà tanto solida quanto solide sono le fondamenta umane e spirituali:
+
+> Il fidanzamento… è il tempo nel quale i due sono chiamati a fare un bel lavoro sull’amore, un lavoro partecipe e condiviso, che va in profondità. Ci si scopre man mano a vicenda cioè, l’uomo “impara” la donna imparando questa donna, la sua fidanzata; e la donna “impara” l’uomo imparando questo uomo, il suo fidanzato… L’alleanza d’amore tra l’uomo e la donna, alleanza per la vita, non si improvvisa, non si fa da un giorno all’altro… ma bisogna camminare. L’alleanza dell’amore dell’uomo e della donna si impara e si affina 
+<span>(papa Francesco)</span>
+
+Inoltre il fidanzamento è anche un tempo di “allenamento” alla fedeltà, alla fiducia, al dominio di sé, all’attesa, per arrivare a donarsi pienamente a tempo debito. 
+
+> “Chi pretende di volere tutto e subito, poi cede anche su tutto – e subito – alla prima difficoltà (o alla prima occasione). Non c’è speranza per la fiducia e la fedeltà del dono di sé, se prevale l’abitudine a consumare l’amore come una specie di “integratore” del benessere psico-fisico. L’amore non è questo! Il fidanzamento mette a fuoco la volontà di custodire insieme qualcosa che mai dovrà essere comprato o venduto, tradito o abbandonato, per quanto allettante possa essere l’offerta…. La Chiesa, nella sua saggezza, custodisce la distinzione tra l’essere fidanzati e l’essere sposi - non è lo stesso - proprio in vista della delicatezza e della profondità di questa verifica. Stiamo attenti a non disprezzare a cuor leggero questo saggio insegnamento, che si nutre anche dell’esperienza dell’amore coniugale felicemente vissuto. I simboli forti del corpo detengono le chiavi dell’anima: non possiamo trattare i legami della carne con leggerezza, senza aprire qualche durevole ferita nello spirito (1 Cor 6,15-20)” 
+<span>(papa Francesco)</span>

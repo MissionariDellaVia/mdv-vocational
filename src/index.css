@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Raleway:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.2em;
+    
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.fade-enter, .fade-exit {
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition: all .5s;
+  transition: all .5s;
+  transition-timing-function: ease-in-out;
+  -moz-transition-timing-function: ease-in-out;
+  -webkit-transition-timing-function: ease-in-out;
+  -o-transition-timing-function: ease-in-out;
+}
+
+.fade-enter, .fade-exit-active {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  z-index: 1;
+}
+
+.title-t{
+  font-family: 'Neucha', cursive;
+  font-size: 2.6rem;
+  color: #000000;
+  -webkit-text-decoration: #422600 solid underline;
+  text-decoration: #422600 solid underline;
+  -webkit-text-underline-position: auto;
+  text-underline-position: auto;
+}
+
+.title-underline{
+  font-family: 'Neucha', cursive;
+  font-size: 2.4rem;
+  color: #422600;
+  -webkit-text-decoration: #422600 solid underline;
+  text-decoration: #422600 solid underline;
+  -webkit-text-underline-position: auto;
+  text-underline-position: auto;
+}
+
+.title-color{
+  font-family: 'Neucha', cursive;
+  font-size: 2rem;
+  color: #422600;
+}
+
+.ticker-text{
+  font-family: 'Neucha', cursive;
+  font-size: 1.5rem;
+  color: #422600;
+}
+
+.container-xl {
+  max-width: 1500px;
+}
+
+.scrollTop{
+  color: white;
+  filter: invert(20%);
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition: all .5s;
+  transition: all .5s;
+  transition-timing-function: ease-in-out;
+  -moz-transition-timing-function: ease-in-out;
+  -webkit-transition-timing-function: ease-in-out;
+  -o-transition-timing-function: ease-in-out;
+}
+
+.scrollTop:hover{
+  filter: invert(50%);
+  
+}
+
+blockquote{
+  font-size: 1em;
+  width:auto !important;
+  font-family: 'Handlee', cursive;
+  color: #000000;
+  padding:10px;
+}
+
+
+.markdown h1, .markdown h2, .markdown h3{
+  text-align: center;
+  margin-bottom: 1.4em;
+}
+
+.fa-plus {
+  color: #422600;
+}
+
+.hoverable{
+  cursor: pointer;
+}
+
+.hoverable:hover{
+  color: #a89780;
+}
+
+.row.padded {
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+}
+
+.collapseHeader {
+  font-family: 'Neucha', cursive;
+  
+  border-bottom: #422600 solid;
+  margin-bottom: 1rem;
+}
+
+.collapseHeader > h3 {
+  font-size: xx-large;
+}
+
+.draw-border {
+  
+  box-shadow: inset 1px 1px 6px #a89780;
+  color: #ffffff;
+  -webkit-transition: color 0.25s 0.0833333333s;
+  transition: color 0.25s 0.0833333333s;
+  position: relative;
+}
+.draw-border::before, .draw-border::after {
+  border: 0 solid transparent;
+  box-sizing: border-box;
+  content: '';
+  pointer-events: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: 0;
+  right: 0;
+}
+.draw-border::before {
+  border-bottom-width: 6px;
+  border-left-width: 6px;
+}
+.draw-border::after {
+  border-top-width: 6px;
+  border-right-width: 6px;
+}
+.draw-border:hover {
+  color: #f7ebda;
+}
+.draw-border:hover::before, .draw-border:hover::after {
+  border-color: #f7ebda;
+  -webkit-transition: border-color 0s, width 0.25s, height 0.25s;
+  transition: border-color 0s, width 0.25s, height 0.25s;
+  width: 100%;
+  height: 100%;
+}
+.draw-border:hover::before {
+  -webkit-transition-delay: 0s, 0s, 0.25s;
+          transition-delay: 0s, 0s, 0.25s;
+}
+.draw-border:hover::after {
+  -webkit-transition-delay: 0s, 0.25s, 0s;
+          transition-delay: 0s, 0.25s, 0s;
+}
+
+.btn-animated {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font-family: 'Neucha', cursive;
+  font-size: 1.4rem;
+  padding: 1em 2em;
+  letter-spacing: 0.05rem;
+}
+.btn-animated:focus {
+  outline: 2px dotted #a89780;
+}
+
+img[alt$=">"] {
+  float: right;
+  max-width: 40%;
+  height: auto;
+  padding: 1rem;
+}
+
+img[alt$="<"] {
+  float: left;
+  max-width: 40%;
+  height: auto;
+  padding: 1rem;
+}
+
+
+@media (min-width: 320px) { 
+  img[alt$=">"] {max-width: 100%;}
+  img[alt$="<"] {max-width: 100%;}
+}
+@media (min-width: 768px) {
+  img[alt$=">"] {max-width: 50%;}
+  img[alt$="<"] {max-width: 50%;}
+}
+@media (min-width: 992px) { 
+  img[alt$=">"] {max-width: 40%;}
+  img[alt$="<"] {max-width: 40%;}
+}
+@media (min-width: 1200px) { 
+  img[alt$=">"] {max-width: 40%;}
+  img[alt$="<"] {max-width: 40%;}
+}
+
+@media (min-width: 1920px) { 
+  img[alt$=">"] {max-width: 50%;}
+  img[alt$="<"] {max-width: 50%;}
+}

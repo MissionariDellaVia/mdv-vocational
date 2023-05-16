@@ -1,0 +1,19 @@
+.stretched-list {
+    max-width: 60vw;
+    margin: auto;
+    padding-bottom: 4vh;
+}
+.stretched-list h5 {
+    font-family: 'Neucha', cursive;
+    font-size: x-large;
+}
+
+.stretched-list div {
+    font-size: smaller;
+    padding-right: 2rem;
+}
+
+li.borderless {
+    border: 0 none;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,7 @@
+.card.form{
+    border:0;
+}
+
+.card.form .card-title {
+    color: rgba(5, 0, 46, 0.808);
+}

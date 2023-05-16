@@ -1,0 +1,29 @@
+.card {
+    border-radius: 0!important;
+}
+
+.faq {
+    font-family: 'Neucha', cursive;
+    border-bottom: #422600 solid;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    -webkit-transition: all .4s;
+    -moz-transition: all .4s;
+    -o-transition: all .4s;
+    transition: all .4s;
+    transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    
+}
+
+.faq > h3 {
+    font-size: xx-large;
+  }
+
+.faq:hover {
+    box-shadow: 0 4px 4px -2px #422600;
+}
+
+
